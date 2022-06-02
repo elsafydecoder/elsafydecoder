@@ -1,4 +1,4 @@
-### This's Elsafy Hegazy! Hola 👋
+### Soy Elsafy Hegazy! Hola 👋
 
 - 🔭 I’m currently working on custom projects.
 - 🌱 I’m currently learning machine learning.
