@@ -5,4 +5,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsafydecoder&layout=compact&theme=vue&border_radius=30)
 
+![Elsafy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elsafydecoder)
+
 ![Elsafy's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsafydecoder&show_icons=true&theme=vue&border_radius=30)
